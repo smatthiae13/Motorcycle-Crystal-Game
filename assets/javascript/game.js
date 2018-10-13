@@ -27,9 +27,6 @@ $(document).ready(function () {
 
     }
 
-
-
-
     $(document).on('click', ".scooter", function () {
 
         var totalNum = parseInt($(this).attr("data-random"));
