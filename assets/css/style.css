@@ -1,0 +1,81 @@
+#motorcycle {
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+    align-items: center;
+}
+.scooter {
+    width: 150px;
+    height: 150px;
+    
+}
+#motomorini {
+    background-image: url(../../assets/images/norton.jpeg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#motoguzzi {
+    background-image: url(../../assets/images/moto-guzzi-v7sport.jpeg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#lambretta {
+    background-image: url(../../assets/images/Lambretta.jpeg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#vespa {
+    background-image: url(../../assets/images/Vespa.jpeg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}
+body {
+    background-image: url("http://moto.zombdrive.com/images1600_/moto-morini-3-12-l-8.jpg")
+   
+}
+#random-number {
+    padding-top: 10px;
+}
+#total-score-p {
+    padding-top: 10px;
+    width: 165px;
+}
+#game-win {
+    background: red;
+    border: solid 1px;
+    height: 70px;
+    margin: 5px;
+    text-align: center;
+    padding-top: 5px;
+}
+#game-loss {
+    background: red;
+    border: solid 1px;
+    height: 70px;
+    margin: 5px;
+    text-align: center;
+    padding-top: 5px;
+}
+h1 {
+    text-align: center;
+    margin: 16px;
+}
+.col-md-12-center {
+    padding: 5px;
+    margin: 5px;
+}
+.col-md-6-center {
+    padding: 5px;
+    margin: 5px;
+}
+p {
+    margin: 16px;
+}
+#Instructions {
+    background: rgb(230, 230, 230, 0.8);
+    padding-top: 5px;
+}
+#Header {
+    background: rgb(230, 230, 230, 0.8);
+}
