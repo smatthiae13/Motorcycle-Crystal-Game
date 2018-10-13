@@ -2,40 +2,23 @@ var randomNumber = 0;
 var wins = 0;
 var losses = 0;
 var addTogether = 0;
-var images = ["/assets/images/honda .jpeg", "/assets/images/Lambretta.jpeg", "/assets/images/moto-guzzi-v7sport.jpeg", "/assets/images/Vespa.jpeg"];
-//var motoMoriniNum = 0;
-//var motoGuzziNum = 0;
-//var vespaNum = 0;
-//var lambrettaNum = 0; //will need to refer to elements in code?
-//var totalGameScore = 0;
+
+
 
 $(document).ready(function () {
 
-
-
     var resetGame = function () {
-
 
         $("motorcycles").empty();
 
         randomNumber = Math.floor(Math.random() * 120) + 19;
 
-
         $("#result").html(randomNumber);
     }
-
     for (var i = 0; i < 4; i++) {
 
         var random = Math.floor(Math.random() * 15) + 1;
 
-
-
-
-        // console.log(random);
-        // var scooter = $("<div>");
-        // scooter.attr({ "class": 'scooter', "data-random": random });
-
-        // $("#motorcycle").append(scooter);
     }
 
     resetGame();

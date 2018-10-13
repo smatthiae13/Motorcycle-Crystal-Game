@@ -71,6 +71,7 @@ h1 {
 }
 p {
     margin: 16px;
+    
 }
 #Instructions {
     background: rgb(230, 230, 230, 0.8);
@@ -78,4 +79,10 @@ p {
 }
 #Header {
     background: rgb(230, 230, 230, 0.8);
+}
+#result {
+    text-align: center;
+}
+.score-total {
+    text-align: center;
 }
