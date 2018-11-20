@@ -9,3 +9,7 @@ The game will create a random number at start of each game to try to add up to b
 On the screen it will also show the total number growing each time a motorcycle is clicked until the player either matches the random number and wins, or goes over it, and looses.
 If the player wins, it will increment a win counter. if player looses, it will increment the lose counter.
 Then the game will restart, and reset.
+
+Please click here to view and play game:
+
+https://smatthiae13.github.io/Motorcycle-Crystal-Game/
