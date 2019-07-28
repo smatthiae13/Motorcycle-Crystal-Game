@@ -12,4 +12,4 @@ Then the game will restart, and reset.
 
 Please click here to view and play game:
 
-https://smatthiae13.github.io/Motorcycle-Crystal-Game/
+![image](https://user-images.githubusercontent.com/41133706/62013293-ed1dcb00-b155-11e9-9ee2-76ab088d2012.png)
